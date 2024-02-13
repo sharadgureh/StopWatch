@@ -38,4 +38,4 @@ Contributions to this project are welcome. If you have any suggestions, improvem
 
 ### Contact
 
-For any inquiries or feedback, please contact [your email or preferred contact method].
+For any inquiries or feedback, please contact <sharadgureh1212@gmail.com>
