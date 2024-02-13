@@ -31,10 +31,6 @@ This project does not have any external dependencies. It uses pure HTML, CSS, an
 
 Contributions to this project are welcome. If you have any suggestions, improvements, or bug fixes, please feel free to create a pull request.
 
-### License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ### Acknowledgments
 
 - This project was inspired by various online stopwatch implementations.
