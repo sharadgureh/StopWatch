@@ -126,6 +126,10 @@ h2 {
 .laps .lap :active p{
     color: #fff;
 }
+.lap p{
+    color: black;
+    font-weight: 500;
+}
 .hidden{
     display: none;
 }
