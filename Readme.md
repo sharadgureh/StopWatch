@@ -5,9 +5,8 @@ This project is a simple stopwatch implemented using HTML, CSS, and JavaScript. 
 ## Features
 
 1. **Start Button:** Initiates the stopwatch timer.
-2. **Pause Button:** Pauses the stopwatch timer.
-3. **Reset Button:** Resets the stopwatch timer to zero.
-4. **Time Display:** Displays the elapsed time in hours, minutes, seconds, and milliseconds.
+2. **Reset Button:** Resets the stopwatch timer to zero.
+3. **Time Display:** Displays the elapsed time in hours, minutes, seconds, and milliseconds.
 
 ### File Structure
 
@@ -20,7 +19,6 @@ This project is a simple stopwatch implemented using HTML, CSS, and JavaScript. 
 Clone or download the repository to your local machine.
 Open the index.html file in a web browser.
 Click on the "Start" button to begin the stopwatch timer.
-Click on the "Pause" button to pause the stopwatch timer.
 Click on the "Reset" button to reset the stopwatch timer to zero.
 
 ### Dependencies
